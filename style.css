@@ -59,7 +59,7 @@ header .navbar ul li a:hover{
                                                                     /* Heading Tag CSS END */
 
                                                                     /* Section One Start Style */
-    .section1{
+.section1{
     background-color: #f9f9f9;
     width: 100%;
     height: 665px;
@@ -109,4 +109,54 @@ header .navbar ul li a:hover{
     color: white;
     font-size: 25px;
 }
+
+                                                                                       /* Section One End */
+
+                                                                                       /* Section Two Start Styles */
+
+.section2{
+    width: 100%;
+    height: 620px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.half3, .half4{
+    max-width: 50%;
+}
+
+.half4 h3{
+    margin-left: 190px;
+    margin-top: 50px;
+    font-weight: normal;
+    color: #7986CB;
+    font-size: 15px;
+}
+
+.half4 h1{
+    font-weight: bold;
+    font-size: 35px;
+    margin-left: 230px;
+    /* margin-top: 10px; */
+}
+
+.half4 p{
+    margin-left: 230px;
+    color: gray;
+    margin-top: 30px;
+}
+
+.section2 input {
+    margin-top: 40px;
+    margin-left: 50%;
+    padding: 8px 15px;
+    border: none;
+    background-color: #26A69A;
+    color: white;
+    font-size: 25px;
+}
+
+                                                                                       /* Section Two END Styles */
 
